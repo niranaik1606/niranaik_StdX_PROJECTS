@@ -8,7 +8,7 @@ public class find_the_bigger_number {
 	Scanner scn=new Scanner(System.in);
 	System.out.println("Enter the first number");
 	int num1= scn.nextInt(); 
-	System.out.println("Enter the second number");
+	System.out. println("Enter the second number");
 	int num2= scn.nextInt(); 
 		System.out.println(num1);
 		System.out.println(num2);
